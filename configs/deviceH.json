@@ -1,0 +1,16 @@
+[
+  {
+    "database": "/usr/local/dispatcher/data/sqlite/T1.sqlite",
+      "table": "entry",
+      "urls":
+      [
+        {
+          "pushUrl": "http://www.cheminfo.org/dispatcher/database/T1",
+          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/T1"
+        }
+      ],
+      "chunkSize": 20,
+      "incrCol": "id",
+      "interval": 30000
+   }
+]
