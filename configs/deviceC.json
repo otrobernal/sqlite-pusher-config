@@ -1,0 +1,78 @@
+[
+  {
+    "database": "/usr/local/dispatcher/data/sqlite/C0.sqlite",
+      "table": "entry",
+      "urls":
+      [
+        {
+          "pushUrl": "http://www.cheminfo.org/dispatcher/database/C0",
+          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/C0"
+        },
+        {
+          "pushUrl": "http://10.16.51.180/dispatcher/database/C0",
+          "lastUrl": "http://10.16.51.180/dispatcher/database/last/C0"
+        }
+      ],
+      "chunkSize": 20,
+      "incrCol": "id",
+      "interval": 30000
+   },
+   
+    {
+    "database": "/usr/local/dispatcher/data/sqlite/C1.sqlite",
+      "table": "entry",
+      "urls":
+      [
+        {
+          "pushUrl": "http://www.cheminfo.org/dispatcher/database/C1",
+          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/C1"
+        },
+        {
+          "pushUrl": "http://10.16.51.180/dispatcher/database/C1",
+          "lastUrl": "http://10.16.51.180/dispatcher/database/last/C1"
+        }
+      ],
+      "chunkSize": 20,
+      "incrCol": "id",
+      "interval": 30000
+   },
+   
+    {
+    "database": "/usr/local/dispatcher/data/sqlite/C2.sqlite",
+      "table": "entry",
+      "urls":
+      [
+        {
+          "pushUrl": "http://www.cheminfo.org/dispatcher/database/C2",
+          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/C2"
+        },
+        {
+          "pushUrl": "http://10.16.51.180/dispatcher/database/C2",
+          "lastUrl": "http://10.16.51.180/dispatcher/database/last/C2"
+        }
+      ],
+      "chunkSize": 20,
+      "incrCol": "id",
+      "interval": 30000
+   },
+   
+   
+    {
+    "database": "/usr/local/dispatcher/data/sqlite/C3.sqlite",
+      "table": "entry",
+      "urls":
+      [
+        {
+          "pushUrl": "http://www.cheminfo.org/dispatcher/database/C3",
+          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/C3"
+        },
+        {
+          "pushUrl": "http://10.16.51.180/dispatcher/database/C3",
+          "lastUrl": "http://10.16.51.180/dispatcher/database/last/C3"
+        }
+      ],
+      "chunkSize": 20,
+      "incrCol": "id",
+      "interval": 30000
+   }
+]
