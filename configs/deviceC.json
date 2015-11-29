@@ -5,10 +5,6 @@
       "urls":
       [
         {
-          "pushUrl": "http://www.cheminfo.org/dispatcher/database/C0",
-          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/C0"
-        },
-        {
           "pushUrl": "http://10.16.51.180/dispatcher/database/C0",
           "lastUrl": "http://10.16.51.180/dispatcher/database/last/C0"
         }
@@ -23,10 +19,6 @@
       "table": "entry",
       "urls":
       [
-        {
-          "pushUrl": "http://www.cheminfo.org/dispatcher/database/C1",
-          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/C1"
-        },
         {
           "pushUrl": "http://10.16.51.180/dispatcher/database/C1",
           "lastUrl": "http://10.16.51.180/dispatcher/database/last/C1"
@@ -43,10 +35,6 @@
       "urls":
       [
         {
-          "pushUrl": "http://www.cheminfo.org/dispatcher/database/C2",
-          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/C2"
-        },
-        {
           "pushUrl": "http://10.16.51.180/dispatcher/database/C2",
           "lastUrl": "http://10.16.51.180/dispatcher/database/last/C2"
         }
@@ -62,10 +50,6 @@
       "urls":
       [
         {
-          "pushUrl": "http://www.cheminfo.org/dispatcher/database/C3",
-          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/C3"
-        },
-        {
           "pushUrl": "http://10.16.51.180/dispatcher/database/C3",
           "lastUrl": "http://10.16.51.180/dispatcher/database/last/C3"
         }
@@ -80,10 +64,6 @@
       "table": "entry",
       "urls":
       [
-        {
-          "pushUrl": "http://www.cheminfo.org/dispatcher/database/C4",
-          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/C4"
-        },
         {
           "pushUrl": "http://10.16.51.180/dispatcher/database/C4",
           "lastUrl": "http://10.16.51.180/dispatcher/database/last/C4"
