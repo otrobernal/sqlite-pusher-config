@@ -74,5 +74,24 @@
       "chunkSize": 20,
       "incrCol": "id",
       "interval": 30000
+   },
+   
+   {
+    "database": "/usr/local/dispatcher/data/sqlite/O4.sqlite",
+      "table": "entry",
+      "urls":
+      [
+        {
+          "pushUrl": "http://www.cheminfo.org/dispatcher/database/O4",
+          "lastUrl": "http://www.cheminfo.org/dispatcher/database/last/O4"
+        },
+        {
+          "pushUrl": "http://10.16.51.180/dispatcher/database/O4",
+          "lastUrl": "http://10.16.51.180/dispatcher/database/last/O4"
+        }
+      ],
+      "chunkSize": 20,
+      "incrCol": "id",
+      "interval": 30000
    }
 ]
